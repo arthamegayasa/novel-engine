@@ -1,0 +1,240 @@
+# banned-phrases.txt — FAIL tier (Tier A in research/craft-report.md §1.2 plus house additions).
+# Enforced by scripts/prose-lint.mjs: case-insensitive, whole-word, whitespace-flexible. One phrase per line; # comments.
+# Policy: a hit is a FAIL. A writer may keep one with a written justification in the review; the reviewer decides.
+# Softer items live in suspect-phrases.txt (WARN).
+#
+# --- significance inflation / promotional register (Wikipedia AITELLS, Kobak 2024) ---
+delve
+delves
+delved
+delving
+tapestry
+tapestries
+a testament to
+testament to
+stands as a
+serves as a
+served as a
+serves as
+functions as a
+underscore
+underscores
+underscoring
+underscored
+showcase
+showcases
+showcasing
+showcased
+in the heart of
+deeply rooted
+indelible mark
+evolving landscape
+ever-changing
+ever-evolving
+garner
+garnered
+interplay
+emotional landscape
+inner landscape
+landscape of
+setting the stage
+set the stage for
+marking a turning point
+a turning point
+key turning point
+stark reminder
+a reminder that
+serves as a reminder
+boasts
+boasted
+# --- hedging wrappers / essay tics ---
+it's important to note
+it is important to note
+it is worth noting
+it's worth noting
+needless to say
+suffice it to say
+let's just say
+in summary
+in conclusion
+ultimately
+at the end of the day
+in the grand scheme
+grand scheme of things
+what it means to be
+in a world where
+imagine a world
+picture this
+# --- negative parallelism scaffolds (Economist 2026) ---
+it's not just
+it isn't just
+it wasn't just
+not just a
+not just about
+it's not about
+it isn't about
+it wasn't about
+no longer just
+more than just
+nothing more than
+nothing less than
+not merely
+# --- stock physiology / stock feeling ---
+shivers down
+shiver down
+chill down
+down my spine
+down his spine
+down her spine
+couldn't help but
+could not help but
+can't help but
+little did
+unbeknownst
+a mix of
+a mixture of
+a blend of
+something shifted
+something broke inside
+something ancient
+something stirred
+the weight of the moment
+the weight of
+like a shroud
+raw edges
+a breath he didn't know
+a breath she didn't know
+didn't know he was holding
+didn't know she was holding
+didn't know I was holding
+the silence was deafening
+deafening silence
+time seemed to stand still
+time seemed to slow
+time stood still
+a wave of
+washed over
+surge of
+flicker of
+crossed his face
+crossed her face
+unreadable expression
+ghost of a smile
+mischievous glint
+barely above a whisper
+barely a whisper
+thick with
+charged with
+electric between
+electricity between
+a dance of
+a symphony of
+symphony of
+an orchestra of
+cacophony of
+beacon of hope
+the fabric of
+unspoken understanding
+unspoken words passed
+newfound
+the very essence of
+delicate balance
+stark contrast
+glimmer of hope
+hit him like a
+hit her like a
+hit me like a
+shadows danced
+cutting through the silence
+like a moth to a flame
+embark on
+embarked on
+her journey
+his journey
+my journey
+the seeds of
+speaking volumes
+spoke volumes
+hung in the air
+hung heavy
+heavy with meaning
+laden with
+pregnant pause
+comfortable silence
+you could cut the tension
+tension in the air
+air was thick
+as if on cue
+right on cue
+as if sensing
+as if reading my mind
+as if reading his mind
+as if reading her mind
+felt a surge
+eyes sparkled
+orbs
+mere mortals
+a force to be reckoned with
+game changer
+game-changer
+unleash
+unleashed
+unlock
+unlocking
+navigate the
+navigating the
+navigate her
+navigate his
+in more ways than one
+on so many levels
+irony was not lost
+was not lost on
+one thing was certain
+one thing was clear
+and so it began
+and so it was
+thus began
+once and for all
+first and foremost
+last but not least
+the bigger picture
+threads of fate
+tendrils of
+tendrils
+sea of faces
+wall of sound
+curtain of rain
+sheets of rain
+the heavens opened
+wind howled
+wind whispered
+leaves rustled
+rustling leaves
+crisp air
+scent of pine
+scent of rain
+smell of rain
+petrichor
+earthy scent
+acrid smell
+metallic tang
+coppery tang
+coppery taste
+tang of blood
+taste of blood
+iron in his mouth
+iron in her mouth
+bathed in light
+bathed in moonlight
+moonlight bathed
+silver moonlight
+pale moonlight
+stars twinkled
+twinkling stars
+canopy of stars
+blanket of stars
+blanket of snow
+dappled sunlight
+golden hour
+light filtered through
+sunlight filtered

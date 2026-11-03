@@ -1,0 +1,18 @@
+# Local reference corpus and scratch: never commit (copyrighted source text, large).
+.cache/
+# Per-project compiled manuscripts are regenerable
+projects/*/*-manuscript.*
+node_modules/
+dist/
+# Working reading notes contain extended source excerpts; publish only the inventory map.
+research/source-notes/*
+!research/source-notes/artoc-chapter-map.md
+# New manuscripts stay local by default; the original worked example is public.
+projects/*
+!projects/not-yet/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db

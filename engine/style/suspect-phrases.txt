@@ -1,0 +1,138 @@
+# suspect-phrases.txt — WARN tier (B/C in research/craft-report.md §1.2). Keep only when a specific voice earns it.
+# One phrase per line; # comments. Matching is case-insensitive, whole-word, whitespace-flexible.
+crucial
+intricate
+intricacies
+enduring
+lasting legacy
+bolstered
+not only
+rather than
+profound
+profoundly
+palpable
+whispered
+in that moment
+at that moment
+for the first time in
+despite everything
+and yet
+it was then that
+that was when
+perhaps
+maybe
+seemed to
+appeared to
+I felt
+I noticed
+I realized
+I realised
+I saw
+heart pounded
+heart hammered
+heart raced
+jaw clenched
+clenched his jaw
+clenched her jaw
+knuckles white
+white-knuckled
+fists tightened
+eyes gleamed
+eyes glinted
+resolve hardened
+steeled himself
+steeled herself
+a sense of
+mind raced
+thoughts swirled
+the world narrowed
+bile rose
+the darkness pressed
+primal
+feral
+visceral
+ancient
+let out a breath
+released a breath
+kaleidoscope
+labyrinth
+labyrinthine
+ethereal
+echoes of
+whispers of
+quietly
+steady
+clearer
+dependable
+hollow
+hollowness
+unwavering
+unyielding
+steadfast
+resolute
+indomitable
+vibrant
+bustling
+nestled
+meticulous
+meticulously
+multifaceted
+nuanced
+pivotal
+dynamic
+ecosystem
+framework
+seamless
+seamlessly
+robust
+leverage
+harness
+foster
+fostering
+elevate
+transformative
+resonate
+resonated
+resonates
+woven
+weaving
+interwoven
+intertwined
+etched
+chiseled
+chiselled
+danced
+dancing
+flickered
+sighed heavily
+sighed deeply
+nodded slowly
+shook his head slowly
+shook her head slowly
+ran a hand through
+pinched the bridge
+rubbed his temples
+rubbed her temples
+swallowed hard
+lump in his throat
+lump in her throat
+lump in my throat
+blood ran cold
+goosebumps
+stomach dropped
+stomach churned
+stomach twisted
+heart sank
+heart skipped
+chest tightened
+breath hitched
+breath caught
+tears welled
+tears pricked
+blinked back tears
+vision blurred
+everything went black
+literally
+honestly
+somehow
+suddenly
